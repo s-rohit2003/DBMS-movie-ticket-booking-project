@@ -1,25 +1,9 @@
-# MyShowz-Movie-ticket-booking-website
-It is a movie ticket booking website with front-end only. I designed it as a part of my HCI (human-computer interaction) project.
-It is available in both dark & light mode.
+Abstract:
 
-### Demo : http://myshowz.infinityfreeapp.com/
+This project focuses on creating a simple yet effective movie ticket booking interface using HTML and CSS. The objective is to provide users with an intuitive platform to browse available movies, select showtimes, choose seats, and complete their bookings seamlessly.
 
-# Glimpse of the web-site
-## Home page in the dark mode
-![Home page in the dark mode](./screenshots/MyShowz_home_page_dark.PNG)
+The HTML structure consists of web pages for movie listings, showtime selection, seat reservation, and payment processing. CSS is utilized to design a visually appealing and user-friendly interface, incorporating responsive design principles to ensure compatibility across various devices and screen sizes.
 
+The movie ticket booking interface employs HTML forms and CSS styles to facilitate user interaction, allowing customers to select their preferred movie, showtime, and seats. Additionally, the design emphasizes accessibility and user experience, making it easy for users to navigate, review their selections, and make secure payments.
 
-## Home page in the light mode
-![Home page in the light mode](./screenshots/MyShowz_home_page_light.PNG)
-
-
-## Seat selection page in the dark mode
-![Seat selection page in the dark mode](./screenshots/MyShowz_seat_sel_page_dark.PNG)
-
-
-## SignIn-SignUp page in the dark mode
-![SignIn-SignUp page in the dark mode](./screenshots/MyShowz_sign-in_page_dark.PNG)
-
-## Credits
-
-### Bootstrap Layout: https://w3layouts.com/tag/bootstrap-templates/
+By combining HTML and CSS, this project aims to demonstrate the fundamental principles of web development in the context of a practical application, enabling users to book movie tickets with ease while enjoying a visually pleasing and responsive design.
